@@ -18,6 +18,6 @@ The task is written in python-flask using sqlite database(SQLAlchemy)
 - run the flask application
    - `flask run`
 # How to run tests
-1- follow the application running commands above.
-2- run the test script:
+- first, follow the application running commands above.
+- second, run the test script:
    - `python3 test_app.py`
