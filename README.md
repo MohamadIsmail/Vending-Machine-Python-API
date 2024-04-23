@@ -1,5 +1,5 @@
-# FlapKap-Task
-This is an implemnentation for FlapKap backend task by Mohamed Ismail.
+# Vending Machine Python API
+This is an implemnentation for a Vending Machine Python API by Mohamed Ismail.
 The task is written in python-flask using sqlite database(SQLAlchemy)
 # How to run the API 
 - run those commands on your linux machine to install python latest version and its dependencies:
